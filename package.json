@@ -1,0 +1,14 @@
+{
+  "name": "rd_challenge",
+  "version": "1.0.0",
+  "main": "customerSuccessBalancing.js",
+  "repository": "https://github.com/devmichaelheming/rd_challenge.git",
+  "author": "<devmichael.heming@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
